@@ -1,7 +1,5 @@
-# Inception
-Implementation of inception-v4.
+# Inception-v4 Architecture.
+Implementation of inception-v4 architecture. 
 
 In progress:
 1. Data loader.
-2. Dimension specifications (mistakes in number of kernels for each convolutional layer).
-
