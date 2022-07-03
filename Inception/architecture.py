@@ -52,7 +52,6 @@ def build_model():
 
     inception_model = tf.keras.Model(inputs=input_layer, outputs=[output_layer])
 
-    print(inception_model.summary())
     return inception_model
 
 build_model()
